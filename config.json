@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "SkBhaiYT.aternos.me",
+ "port": "55654",
+ "name": "BOT",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "token": "OTAyNzk1ODM4NTAwMjcwMTMw.YXjoJQ.2js5KVcd6prdLx_EUm6_61P_TfM",
+ "channelid": "902024461790871592",
+ "loginmsg": "Hello_World"
 }
